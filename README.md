@@ -6,5 +6,5 @@ python3.4.0
 
 
 library used:-
-PyQt4
+PyQt4,
 Py2exe
