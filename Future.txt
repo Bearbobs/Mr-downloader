@@ -1,0 +1,2 @@
+This is build in view of developing it as a cross platform app or integrating it in webpages 
+for enabling client side download as in mega
