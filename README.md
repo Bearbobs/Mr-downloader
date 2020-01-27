@@ -1,5 +1,5 @@
 ﻿# Mr-downloader
-Coded on:-
+pre-requisites:-
 python3.4.0
 
 
